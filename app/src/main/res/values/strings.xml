@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SitePoint Java Example</string>
+    <string name="sitepoint_description">SitePoint RTK-GNSS system</string>
+    <string name="header_title_str">SitePoint Example</string>
+    <string name="ntrip_connect">Connect</string>
+    <string name="ntrip_disconnect">Disconnect</string>
+
+    <string name="status_battery">N/A %</string>
+    <string name="status_charging">N/A</string>
+    <string name="status_itow">N/A</string>
+    <string name="status_time">N/A</string>
+    <string name="status_time_formatted">N/A</string>
+    <string name="status_satellites">N/A</string>
+    <string name="status_mode">N/A</string>
+    <string name="status_mode_label">N/A</string>
+    <string name="status_aiding_quality">N/A</string>
+    <string name="location_itow">N/A</string>
+    <string name="location_latitude">N/A°</string>
+    <string name="location_longitude">N/A°</string>
+    <string name="location_height">N/A m</string>
+    <string name="location_horizontal_accuracy">N/A m</string>
+    <string name="location_vertical_accuracy">N/A m</string>
+</resources>
