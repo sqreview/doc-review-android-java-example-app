@@ -1,3 +1,5 @@
+[Home](../index.md) / [Implementation Guide](B1_Implementation_Guide.md) / NTRIP
+
 # NTRIP
 
 Set up NTRIP connection handling and RTCM parsing for aiding the SitePoint.
@@ -16,7 +18,7 @@ In addition, some NTRIP providers require the device's location to be sent upon 
 
 Refer to the example app for a simplified approach to establish a connection with an NTRIP provider.
 
-Once the connection has been requested, the response is passed into ``NtripParser.parseAuthorized(byte[] data)`` to parse the authorization request.
+Once the connection has been requested, the response is passed into `NtripParser.handleAuthorized` method to parse the authorization request.
 
 Once successful, the RTCM messages are streamed into ``NtripParser.parseRtcm(byte[] data)`` which enables streamed data to be sent to the `rtcmCallback` when received.
 

@@ -1,3 +1,5 @@
+[Home](../index.md) / [Implementation Guide](B1_Implementation_Guide.md) / Bluetooth Setup
+
 # Bluetooth Setup
 
 ## Overview
@@ -34,6 +36,6 @@ Data is written to the SitePoint by writing to a characteristic. An example of t
 
 <hr>
 
-## Read Next
+## Read next
 
 - [Message Handling](B4_Message_Handling.md) - Send and receive data from the SitePoint peripheral.

@@ -1,12 +1,12 @@
-# SQ Survey Mobile App
+[Home](../index.md) / [Getting Started](../index.md#getting-started) / SQ Survey Mobile App
 
-A full-featured app developed by SignalQuest for surveying and related use cases.
+# SQ Survey Mobile App
 
 ## Overview
 
-Although source code is not available for this app, it does demonstrate the type of app which can be developed using the SitePoint SDK.
+SQ Survey is a full-featured mobile app developed by SignalQuest for surveying and related use cases. Although the source code is not available for this app, it demonstrates the type of app that can be developed using the SitePoint SDK.
 
-It includes additional features which are not part of this SDK, but were developed within the app itself and using the SDK.
+SQ Survey includes additional features that are not part of the SitePoint SDK but were developed within the app itself using the SDK.
 
 > **_Note:_** Some of these additional features in SQ Survey include:
 > - Displaying the SitePoint location on a map
@@ -24,4 +24,4 @@ To request a private version of SQ Survey, please [contact SignalQuest](https://
 
 ## Start Developing
 
-The [Implementation Guide](../Implementation_Guide/B1_Implementation_Guide.md) has step-by-step instructions for interfacing with the SitePoint SDK.
+For step-by-step instructions on interfacing with the SitePoint SDK, please refer to the [Implementation Guide](../Implementation_Guide/B1_Implementation_Guide.md).

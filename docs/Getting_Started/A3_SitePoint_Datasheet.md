@@ -1,12 +1,12 @@
-# SitePoint Datasheet
+[Home](../index.md) / [Getting Started](../index.md#getting-started) / SitePoint Datasheet
 
-Learn about the SitePoint GNSS device.
+# SitePoint Datasheet
 
 ## Overview
 
 SignalQuest's SitePoint GNSS devices offer centimeter-level accuracy in a convenient, lightweight form factor that supports both rover and base modes.
 
-To learn more about the SitePoint, download the [SitePoint datasheet](https://signalquest.com/download/SQ-SPT-0022%20SitePoint%E2%84%A2%20RTK-GNSS%20Base%20and%20Rover.pdf) which includes additional device information and hardware specifications. 
+To learn more about the SitePoint, download the SitePoint datasheet below, which includes additional device information and hardware specifications. 
 
 ### Datasheet
 
@@ -16,4 +16,4 @@ To learn more about the SitePoint, download the [SitePoint datasheet](https://si
 
 ## Start Developing
 
-The [Implementation Guide](../Implementation_Guide/B1_Implementation_Guide.md) has step-by-step instructions for interfacing with the SitePoint SDK.
+For step-by-step instructions on interfacing with the SitePoint SDK, please refer to the [Implementation Guide](../Implementation_Guide/B1_Implementation_Guide.md).
